@@ -8,6 +8,6 @@
 - [x] Leap
 - [x] Pangram
 - [x] Isogram
-- [ ] Gigasecond
+- [x] Gigasecond
 - [ ] Resistor Color
 - [ ] Space Age  
