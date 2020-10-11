@@ -9,5 +9,5 @@
 - [x] Pangram
 - [x] Isogram
 - [x] Gigasecond
-- [ ] Resistor Color
+- [x] Resistor Color
 - [ ] Space Age  
